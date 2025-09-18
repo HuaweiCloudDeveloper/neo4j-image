@@ -26,7 +26,7 @@
     - **Graph Algorithm Library**: Built - in algorithms such as shortest path and community discovery, enabling recommendation systems and risk prediction.
     - **APOC Plugin**: Enhances data processing capabilities (requires the enterprise version or manual configuration).
 
-The open - source image product [**Neo4j Graph Database**]() provided by this project has Neo4j and its related runtime environment pre - installed and provides deployment templates. Come and refer to the usage guide to easily start an "out - of - the - box" and efficient experience!
+The open - source image product [**Neo4j Graph Database**](https://marketplace.huaweicloud.com/intl/hidden/contents/d7d48b74-b8b3-4d31-aeda-22087e6724da) provided by this project has Neo4j and its related runtime environment pre - installed and provides deployment templates. Come and refer to the usage guide to easily start an "out - of - the - box" and efficient experience!
 
 > **System requirements are as follows:**
 > - CPU: 2GHz or higher
